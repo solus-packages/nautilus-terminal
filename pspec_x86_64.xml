@@ -1,0 +1,71 @@
+<PISI>
+    <Source>
+        <Name>nautilus-terminal</Name>
+        <Packager>
+            <Name>Evan Maddock</Name>
+            <Email>maddock.evan@vivaldi.net</Email>
+        </Packager>
+        <License>GPL-3.0-or-later</License>
+        <PartOf>desktop.gnome</PartOf>
+        <Summary xml:lang="en">A terminal embedded in Nautilus</Summary>
+        <Description xml:lang="en">Nautilus Terminal is a terminal embedded into Nautilus, the GNOME’s file browser. It is always opened in the current folder, and follows the navigation.
+</Description>
+        <Archive type="binary" sha1sum="79eb0752a961b8e0d15c77d298c97498fbc89c5a">https://getsol.us/sources/README.Solus</Archive>
+    </Source>
+    <Package>
+        <Name>nautilus-terminal</Name>
+        <Summary xml:lang="en">A terminal embedded in Nautilus</Summary>
+        <Description xml:lang="en">Nautilus Terminal is a terminal embedded into Nautilus, the GNOME’s file browser. It is always opened in the current folder, and follows the navigation.
+</Description>
+        <PartOf>desktop.gnome</PartOf>
+        <Files>
+            <Path fileType="executable">/usr/bin/nautilus-terminal</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/nautilus_terminal-4.0.2-py3.7.egg-info/PKG-INFO</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/nautilus_terminal-4.0.2-py3.7.egg-info/SOURCES.txt</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/nautilus_terminal-4.0.2-py3.7.egg-info/dependency_links.txt</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/nautilus_terminal-4.0.2-py3.7.egg-info/entry_points.txt</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/nautilus_terminal-4.0.2-py3.7.egg-info/requires.txt</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/nautilus_terminal-4.0.2-py3.7.egg-info/top_level.txt</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/nautilus_terminal/__init__.py</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/nautilus_terminal/__main__.py</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/nautilus_terminal/__pycache__/__init__.cpython-37.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/nautilus_terminal/__pycache__/__main__.cpython-37.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/nautilus_terminal/__pycache__/about_dialog.cpython-37.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/nautilus_terminal/__pycache__/color_helpers.cpython-37.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/nautilus_terminal/__pycache__/crowbar.cpython-37.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/nautilus_terminal/__pycache__/debug.cpython-37.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/nautilus_terminal/__pycache__/helpers.cpython-37.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/nautilus_terminal/__pycache__/install_nautilus_extension.cpython-37.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/nautilus_terminal/__pycache__/logger.cpython-37.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/nautilus_terminal/__pycache__/nautilus_accels_helpers.cpython-37.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/nautilus_terminal/__pycache__/nautilus_terminal.cpython-37.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/nautilus_terminal/__pycache__/nautilus_terminal_extension.cpython-37.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/nautilus_terminal/__pycache__/not_packaged.cpython-37.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/nautilus_terminal/about_dialog.py</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/nautilus_terminal/color_helpers.py</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/nautilus_terminal/crowbar.py</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/nautilus_terminal/debug.py</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/nautilus_terminal/helpers.py</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/nautilus_terminal/images/nautilus-terminal-logo.svg</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/nautilus_terminal/install_nautilus_extension.py</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/nautilus_terminal/logger.py</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/nautilus_terminal/nautilus_accels_helpers.py</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/nautilus_terminal/nautilus_terminal.py</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/nautilus_terminal/nautilus_terminal_extension.py</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/nautilus_terminal/not_packaged.py</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/nautilus_terminal/schemas/org.flozz.nautilus-terminal.gschema.xml</Path>
+            <Path fileType="data">/usr/share/glib-2.0/schemas/gschemas.compiled</Path>
+            <Path fileType="data">/usr/share/glib-2.0/schemas/org.flozz.nautilus-terminal.gschema.xml</Path>
+            <Path fileType="data">/usr/share/nautilus-python/extensions/nautilus_terminal_extension.py</Path>
+        </Files>
+    </Package>
+    <History>
+        <Update release="1">
+            <Date>2021-05-30</Date>
+            <Version>4.0.2</Version>
+            <Comment>Packaging update</Comment>
+            <Name>Evan Maddock</Name>
+            <Email>maddock.evan@vivaldi.net</Email>
+        </Update>
+    </History>
+</PISI>

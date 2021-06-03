@@ -1,0 +1,19 @@
+name       : nautilus-terminal
+version    : 4.0.2
+release    : 1
+source     :
+    - https://github.com/flozz/nautilus-terminal/archive/refs/tags/v4.0.2.tar.gz : 16370156f4332511b96485549d0402fe615bfbbefb3d9791635509f371e9498a
+license    : GPL-3.0-or-later
+component  : desktop.gnome
+summary    : A terminal embedded in Nautilus
+description: |
+    Nautilus Terminal is a terminal embedded into Nautilus, the GNOME’s file browser. It is always opened in the current folder, and follows the navigation.
+builddeps  :
+    - pkgconfig(nautilus-python)
+    - python-psutil
+rundeps    : 
+    - python-psutil
+build      : |
+    %python3_setup
+install    : |
+    %python3_install

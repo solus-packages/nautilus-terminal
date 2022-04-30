@@ -20,48 +20,48 @@
         <PartOf>desktop.gnome</PartOf>
         <Files>
             <Path fileType="executable">/usr/bin/nautilus-terminal</Path>
-            <Path fileType="library">/usr/lib/python3.9/site-packages/nautilus_terminal-4.0.2-py3.9.egg-info/PKG-INFO</Path>
-            <Path fileType="library">/usr/lib/python3.9/site-packages/nautilus_terminal-4.0.2-py3.9.egg-info/SOURCES.txt</Path>
-            <Path fileType="library">/usr/lib/python3.9/site-packages/nautilus_terminal-4.0.2-py3.9.egg-info/dependency_links.txt</Path>
-            <Path fileType="library">/usr/lib/python3.9/site-packages/nautilus_terminal-4.0.2-py3.9.egg-info/entry_points.txt</Path>
-            <Path fileType="library">/usr/lib/python3.9/site-packages/nautilus_terminal-4.0.2-py3.9.egg-info/requires.txt</Path>
-            <Path fileType="library">/usr/lib/python3.9/site-packages/nautilus_terminal-4.0.2-py3.9.egg-info/top_level.txt</Path>
-            <Path fileType="library">/usr/lib/python3.9/site-packages/nautilus_terminal/__init__.py</Path>
-            <Path fileType="library">/usr/lib/python3.9/site-packages/nautilus_terminal/__main__.py</Path>
-            <Path fileType="library">/usr/lib/python3.9/site-packages/nautilus_terminal/__pycache__/__init__.cpython-39.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.9/site-packages/nautilus_terminal/__pycache__/__main__.cpython-39.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.9/site-packages/nautilus_terminal/__pycache__/about_dialog.cpython-39.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.9/site-packages/nautilus_terminal/__pycache__/color_helpers.cpython-39.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.9/site-packages/nautilus_terminal/__pycache__/crowbar.cpython-39.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.9/site-packages/nautilus_terminal/__pycache__/debug.cpython-39.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.9/site-packages/nautilus_terminal/__pycache__/helpers.cpython-39.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.9/site-packages/nautilus_terminal/__pycache__/install_nautilus_extension.cpython-39.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.9/site-packages/nautilus_terminal/__pycache__/logger.cpython-39.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.9/site-packages/nautilus_terminal/__pycache__/nautilus_accels_helpers.cpython-39.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.9/site-packages/nautilus_terminal/__pycache__/nautilus_terminal.cpython-39.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.9/site-packages/nautilus_terminal/__pycache__/nautilus_terminal_extension.cpython-39.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.9/site-packages/nautilus_terminal/__pycache__/not_packaged.cpython-39.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.9/site-packages/nautilus_terminal/about_dialog.py</Path>
-            <Path fileType="library">/usr/lib/python3.9/site-packages/nautilus_terminal/color_helpers.py</Path>
-            <Path fileType="library">/usr/lib/python3.9/site-packages/nautilus_terminal/crowbar.py</Path>
-            <Path fileType="library">/usr/lib/python3.9/site-packages/nautilus_terminal/debug.py</Path>
-            <Path fileType="library">/usr/lib/python3.9/site-packages/nautilus_terminal/helpers.py</Path>
-            <Path fileType="library">/usr/lib/python3.9/site-packages/nautilus_terminal/images/nautilus-terminal-logo.svg</Path>
-            <Path fileType="library">/usr/lib/python3.9/site-packages/nautilus_terminal/install_nautilus_extension.py</Path>
-            <Path fileType="library">/usr/lib/python3.9/site-packages/nautilus_terminal/logger.py</Path>
-            <Path fileType="library">/usr/lib/python3.9/site-packages/nautilus_terminal/nautilus_accels_helpers.py</Path>
-            <Path fileType="library">/usr/lib/python3.9/site-packages/nautilus_terminal/nautilus_terminal.py</Path>
-            <Path fileType="library">/usr/lib/python3.9/site-packages/nautilus_terminal/nautilus_terminal_extension.py</Path>
-            <Path fileType="library">/usr/lib/python3.9/site-packages/nautilus_terminal/not_packaged.py</Path>
-            <Path fileType="library">/usr/lib/python3.9/site-packages/nautilus_terminal/schemas/org.flozz.nautilus-terminal.gschema.xml</Path>
+            <Path fileType="library">/usr/lib/python3.10/site-packages/nautilus_terminal-4.0.2-py3.10.egg-info/PKG-INFO</Path>
+            <Path fileType="library">/usr/lib/python3.10/site-packages/nautilus_terminal-4.0.2-py3.10.egg-info/SOURCES.txt</Path>
+            <Path fileType="library">/usr/lib/python3.10/site-packages/nautilus_terminal-4.0.2-py3.10.egg-info/dependency_links.txt</Path>
+            <Path fileType="library">/usr/lib/python3.10/site-packages/nautilus_terminal-4.0.2-py3.10.egg-info/entry_points.txt</Path>
+            <Path fileType="library">/usr/lib/python3.10/site-packages/nautilus_terminal-4.0.2-py3.10.egg-info/requires.txt</Path>
+            <Path fileType="library">/usr/lib/python3.10/site-packages/nautilus_terminal-4.0.2-py3.10.egg-info/top_level.txt</Path>
+            <Path fileType="library">/usr/lib/python3.10/site-packages/nautilus_terminal/__init__.py</Path>
+            <Path fileType="library">/usr/lib/python3.10/site-packages/nautilus_terminal/__main__.py</Path>
+            <Path fileType="library">/usr/lib/python3.10/site-packages/nautilus_terminal/__pycache__/__init__.cpython-310.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.10/site-packages/nautilus_terminal/__pycache__/__main__.cpython-310.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.10/site-packages/nautilus_terminal/__pycache__/about_dialog.cpython-310.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.10/site-packages/nautilus_terminal/__pycache__/color_helpers.cpython-310.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.10/site-packages/nautilus_terminal/__pycache__/crowbar.cpython-310.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.10/site-packages/nautilus_terminal/__pycache__/debug.cpython-310.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.10/site-packages/nautilus_terminal/__pycache__/helpers.cpython-310.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.10/site-packages/nautilus_terminal/__pycache__/install_nautilus_extension.cpython-310.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.10/site-packages/nautilus_terminal/__pycache__/logger.cpython-310.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.10/site-packages/nautilus_terminal/__pycache__/nautilus_accels_helpers.cpython-310.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.10/site-packages/nautilus_terminal/__pycache__/nautilus_terminal.cpython-310.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.10/site-packages/nautilus_terminal/__pycache__/nautilus_terminal_extension.cpython-310.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.10/site-packages/nautilus_terminal/__pycache__/not_packaged.cpython-310.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.10/site-packages/nautilus_terminal/about_dialog.py</Path>
+            <Path fileType="library">/usr/lib/python3.10/site-packages/nautilus_terminal/color_helpers.py</Path>
+            <Path fileType="library">/usr/lib/python3.10/site-packages/nautilus_terminal/crowbar.py</Path>
+            <Path fileType="library">/usr/lib/python3.10/site-packages/nautilus_terminal/debug.py</Path>
+            <Path fileType="library">/usr/lib/python3.10/site-packages/nautilus_terminal/helpers.py</Path>
+            <Path fileType="library">/usr/lib/python3.10/site-packages/nautilus_terminal/images/nautilus-terminal-logo.svg</Path>
+            <Path fileType="library">/usr/lib/python3.10/site-packages/nautilus_terminal/install_nautilus_extension.py</Path>
+            <Path fileType="library">/usr/lib/python3.10/site-packages/nautilus_terminal/logger.py</Path>
+            <Path fileType="library">/usr/lib/python3.10/site-packages/nautilus_terminal/nautilus_accels_helpers.py</Path>
+            <Path fileType="library">/usr/lib/python3.10/site-packages/nautilus_terminal/nautilus_terminal.py</Path>
+            <Path fileType="library">/usr/lib/python3.10/site-packages/nautilus_terminal/nautilus_terminal_extension.py</Path>
+            <Path fileType="library">/usr/lib/python3.10/site-packages/nautilus_terminal/not_packaged.py</Path>
+            <Path fileType="library">/usr/lib/python3.10/site-packages/nautilus_terminal/schemas/org.flozz.nautilus-terminal.gschema.xml</Path>
             <Path fileType="data">/usr/share/glib-2.0/schemas/gschemas.compiled</Path>
             <Path fileType="data">/usr/share/glib-2.0/schemas/org.flozz.nautilus-terminal.gschema.xml</Path>
             <Path fileType="data">/usr/share/nautilus-python/extensions/nautilus_terminal_extension.py</Path>
         </Files>
     </Package>
     <History>
-        <Update release="2">
-            <Date>2021-07-29</Date>
+        <Update release="3">
+            <Date>2022-04-10</Date>
             <Version>4.0.2</Version>
             <Comment>Packaging update</Comment>
             <Name>Joey Riches</Name>

@@ -1,6 +1,6 @@
 name       : nautilus-terminal
 version    : 4.0.2
-release    : 2
+release    : 3
 source     :
     - https://github.com/flozz/nautilus-terminal/archive/refs/tags/v4.0.2.tar.gz : 16370156f4332511b96485549d0402fe615bfbbefb3d9791635509f371e9498a
 license    : GPL-3.0-or-later
@@ -11,7 +11,7 @@ description: |
 builddeps  :
     - pkgconfig(nautilus-python)
     - python-psutil
-rundeps    : 
+rundeps    :
     - python-psutil
 build      : |
     %python3_setup
